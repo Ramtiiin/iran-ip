@@ -12,6 +12,7 @@ This repository provides a comprehensive list of public IP addresses assigned to
 
 ```bash
 /import ip-list.rsc
+bash```
 
 
 ## Disclaimer
