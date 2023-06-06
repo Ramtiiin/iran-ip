@@ -1,12 +1,4 @@
-# jun/06/2023 13:41:43 by RouterOS 7.3.1
-# software id = I64F-6I05
-#
-# model = CCR1036-12G-4S
-# serial number = 74260581A947
 /ip firewall address-list
-add address=5.190.122.122 list="Router's IP"
-add address=10.175.21.93 list="Router's IP"
-add address=10.175.21.94 list="Router's IP"
 add address=2.144.0.0/14 list=IRAN
 add address=2.176.0.0/12 list=IRAN
 add address=5.22.0.0/17 list=IRAN
@@ -1371,11 +1363,6 @@ add address=217.171.148.0/22 list=IRAN
 add address=217.172.96.0/19 list=IRAN
 add address=217.174.16.0/20 list=IRAN
 add address=217.218.0.0/15 list=IRAN
-add address=192.168.255.0/24 list=VPN-Users-List
-add address=192.168.155.0/24 list=VPN-Users-List
-add address=79.127.1.21 list=Login-Trusted
-add address=192.168.155.254 list=Login-Trusted
-add address=192.168.255.225 list=Login-Trusted
 add address=92.114.16.80/28 list=IRAN
 add address=2.146.0.0/28 list=IRAN
 add address=46.224.2.32/29 list=IRAN
@@ -1398,7 +1385,5 @@ add address=37.32.17.0/27 list=IRAN
 add address=37.32.18.0/27 list=IRAN
 add address=37.32.19.0/27 list=IRAN
 add address=185.215.232.0/22 list=IRAN
-add address=193.36.85.237 list=Login-Trusted
-add address=212.90.103.78 list=Login-Trusted
 add address=94.184.96.0/19 comment=banksepah.ir list=IRAN
 add address=10.3.77.116 comment=banksepah.ir list=IRAN
