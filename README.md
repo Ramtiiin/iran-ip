@@ -22,3 +22,22 @@ Contributions are welcome! If you have any suggestions, improvements, or additio
 
 ## License
 This project is licensed under the [MIT License](https://github.com/yourusername/yourrepository/blob/main/LICENSE). See the LICENSE file for more information.
+
+
+
+
+# لیست آدرس‌های آی‌پی عمومی ایران برای MikroTik
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
+
+این مخزن یک لیست جامع از آدرس‌های آی‌پی عمومی اختصاص یافته به ایران را ارائه می‌دهد. لیست به صورت یک فایل **ip-list.rsc** است که به راحتی می‌توان آن را به Winbox وارد کرد.
+
+## روش استفاده
+
+1. دانلود فایل [**ip-list.rsc**](https://github.com/Ramtiiin/iran-ip/blob/main/ip-list.rsc) از این مخزن.
+2. باز کردن Winbox و بکشیدن فایل **ip-list.rsc** به برنامه.
+3. در ترمینال Winbox، دستور زیر را وارد کنید:
+
+```bash
+/import ip-list.rsc
+```
