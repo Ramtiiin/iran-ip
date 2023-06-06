@@ -1,4 +1,4 @@
-# Iran Public IP Address List
+# Iran Public IP Address List for MikroTik
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
 
@@ -6,7 +6,7 @@ This repository provides a comprehensive list of public IP addresses assigned to
 
 ## Usage
 
-1. Download the **ip-list.rsc** file from this repository.
+1. Download the [**ip-list.rsc**](https://github.com/Ramtiiin/iran-ip/blob/main/ip-list.rsc) file from this repository.
 2. Open Winbox and drag the **ip-list.rsc** file into the application.
 3. In the Winbox terminal, type the following command:
 
@@ -21,4 +21,4 @@ Please note that the use of public IP addresses listed in this repository is sub
 Contributions are welcome! If you have any suggestions, improvements, or additional IP addresses to add to the list, please feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the [MIT License](https://github.com/yourusername/yourrepository/blob/main/LICENSE). See the LICENSE file for more information.
