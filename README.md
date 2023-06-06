@@ -11,7 +11,7 @@ This repository provides a comprehensive list of public IP addresses assigned to
 3. In the Winbox terminal, type the following command:
 
 ```bash
-/import ip-list.rsc
+import ip-list.rsc
 ```
 
 ## Disclaimer
