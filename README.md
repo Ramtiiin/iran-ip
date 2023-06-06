@@ -12,3 +12,13 @@ This repository provides a comprehensive list of public IP addresses assigned to
 
 ```bash
 /import ip-list.rsc
+
+
+## Disclaimer
+Please note that the use of public IP addresses listed in this repository is subject to legal regulations and restrictions. It is your responsibility to ensure compliance with applicable laws and regulations when using these IP addresses. The contributors of this repository do not guarantee the accuracy or availability of these IP addresses and are not liable for any consequences arising from their use.
+
+## Contributing
+Contributions are welcome! If you have any suggestions, improvements, or additional IP addresses to add to the list, please feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
