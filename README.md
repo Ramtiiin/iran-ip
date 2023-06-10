@@ -1,4 +1,4 @@
-# Iran Public IP Address List for MikroTik
+# Iran Public IP List for MikroTik
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
 
