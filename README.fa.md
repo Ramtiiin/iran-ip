@@ -2,6 +2,9 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
 
+
+[English](https://github.com/Ramtiiin/iran-ip/blob/main/README.fa.md)
+
 این مخزن یک لیست جامع از آدرس‌های آی‌پی عمومی اختصاص یافته به ایران را ارائه می‌دهد. لیست به صورت یک فایل **ip-list.rsc** است که به راحتی می‌توان آن را به Winbox وارد کرد.
 
 ## روش استفاده
