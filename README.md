@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
 
-فارسی(https://github.com/Ramtiiin/iran-ip/blob/main/README.fa.md)
+[فارسی](https://github.com/Ramtiiin/iran-ip/blob/main/README.fa.md)
 
 This repository provides a comprehensive list of public IP addresses assigned to Iran. The list is in the form of an **ip-list.rsc** file that can be easily imported into Winbox.
 
