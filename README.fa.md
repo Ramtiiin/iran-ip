@@ -1,4 +1,4 @@
-# لیست آدرس‌های آی‌پی عمومی ایران برای MikroTik
+# لیست آدرس‌های آی‌پی پابلیک ایران برای میکروتیک
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
 
